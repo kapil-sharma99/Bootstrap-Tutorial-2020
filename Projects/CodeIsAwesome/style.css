@@ -1,0 +1,30 @@
+body {
+    background: url(coding2.jpg) no-repeat center center fixed;
+    background-size: cover;
+    font-family: 'Spicy Rice', cursive;
+}
+
+.rowHeight {
+    height: 500px;
+}
+
+h1 {
+    height: 2,5em;
+    color: red;
+}
+
+.bg {
+    background-color: #c1c1c1;
+    opacity: 0.8;
+}
+
+.footer {
+    background-color: #fff;
+    bottom: 0;
+    position: fixed;
+}
+
+p {
+    font-size: 18px;
+    padding: 10px;
+}
